@@ -14,9 +14,9 @@
 
 ## Quick Links
 
-- [Cheat Sheet](docs/cheatsheet.md): Full list of flags and descriptions.
-- [Quickstart Guide](docs/quickstart.md): Examples and usage.
-- [Personalization Settings](docs/personalization.md): Set up ChatGPT to recognize Robot Shorthand.
+- [Cheat Sheet](https://github.com/itsbryanman/RobotShorthand/blob/main/cheatsheet.md): Full list of flags and descriptions.
+- [Quickstart Guide](https://github.com/itsbryanman/RobotShorthand/blob/main/quickstart.md): Examples and usage.
+- [Personalization Settings](https://github.com/itsbryanman/RobotShorthand/blob/main/personalization.md): Set up ChatGPT to recognize Robot Shorthand.
 
 ---
 
