@@ -49,6 +49,10 @@ Robot Shorthand saves you time and enhances the clarity of ChatGPT responses. Wh
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K016SI12)
+
+
+
 ## Contributing
 
 Want to suggest new flags or features? Open a pull request or submit an issue!
