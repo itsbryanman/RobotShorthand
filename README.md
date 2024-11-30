@@ -30,7 +30,7 @@ Robot Shorthand saves you time and enhances the clarity of ChatGPT responses. Wh
 
 1. Add Robot Shorthand flags to your ChatGPT personalization settings.
 2. Use shorthand commands in your prompts (e.g., `Explain gravity -SH -SI`).
-3. For the full list of flags, check out the [Cheat Sheet](docs/cheatsheet.md).
+3. For the full list of flags, check out the [Cheat Sheet](https://github.com/itsbryanman/RobotShorthand/blob/main/cheatsheet.md).
 
 ---
 
